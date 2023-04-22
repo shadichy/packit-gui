@@ -1,2 +1,2 @@
 # packit-gui
-packit frontend, written in gtk
+packit frontend, written in qt6
